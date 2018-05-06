@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jvalen/box-shadow-pixels/blob/master/LICENSE.md) [![npm version](https://badge.fury.io/js/box-shadow-pixels.svg)](https://badge.fury.io/js/box-shadow-pixels)
+
 <div align="center">
     <h1>Create <strong>box-shadow</strong> images & animations</h1>
     <img src="./images/potion.png">
@@ -14,6 +16,10 @@ $ npm install box-shadow-pixels
 # Why `box-shadow-pixels`?
 
 `box-shadow` CSS property allow us to draw a shadow around an element. We can go further and represent an image applying colors with different coordinates...and if we decide to go even further we could create animations using `@keyframes`.
+
+# Origins
+
+This library has been part of the core of [pixelartcss](https://github.com/jvalen/pixel-art-react), for the sake of keeping everything more modular, this part has been extracted from the main repository. However the library is meant to be generic and useful for other projects as well.
 
 # How to use it
 
@@ -53,10 +59,6 @@ or
   }
 }
 ``` 
-
-# Origins
-
-This library has been part of the core of [pixelartcss](https://github.com/jvalen/pixel-art-react), for the sake of keeping everything more modular, this part has been extracted from the main repository. However the library is meant to be generic and useful for other projects as well.
 
 # Related links
 
