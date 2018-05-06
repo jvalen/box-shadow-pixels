@@ -1,0 +1,32 @@
+{
+  "name": "box-shadow-pixels",
+  "version": "0.0.1",
+  "description": "Generate CSS box-shadow images and animations",
+  "main": "build/index.js",
+  "scripts": {
+    "dev": "watch 'npm run build' src",
+    "build": "babel src -d build",
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "css",
+    "pixel",
+    "image",
+    "generator",
+    "box-shadow"
+  ],
+  "author": "Javier Valencia Romero (jvalen.com)",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jvalen/box-shadow-pixels"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.1.4",
+    "watch": "^1.0.2"
+  }
+}
