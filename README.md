@@ -1,4 +1,8 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jvalen/box-shadow-pixels/blob/master/LICENSE.md) [![npm version](https://badge.fury.io/js/box-shadow-pixels.svg)](https://badge.fury.io/js/box-shadow-pixels)
+<p align="center">
+  <a href="https://github.com/jvalen/box-shadow-pixels/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+  <a href="https://www.npmjs.com/package/box-shadow-pixels"><img src="https://img.shields.io/npm/v/box-shadow-pixels.svg" alt="npm version"></a>
+  <a href="https://travis-ci.com/jvalen/box-shadow-pixels"><img src="https://travis-ci.com/jvalen/box-shadow-pixels.svg?branch=master" alt="npm version"></a>  
+</p>
 
 <div align="center">
     <h1>Create <strong>box-shadow</strong> images & animations</h1>
