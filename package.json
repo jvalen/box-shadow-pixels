@@ -1,6 +1,6 @@
 {
   "name": "box-shadow-pixels",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate CSS box-shadow images and animations",
   "main": "build/index.js",
   "scripts": {
